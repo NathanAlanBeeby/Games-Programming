@@ -1,0 +1,4 @@
+F:/Year 3/Games Programming/lab5/include/reactphysics3d/cmake build/CMakeFiles/CMakeFiles/reactphysics3d.dir
+F:/Year 3/Games Programming/lab5/include/reactphysics3d/cmake build/CMakeFiles/CMakeFiles/RUN_TESTS.dir
+F:/Year 3/Games Programming/lab5/include/reactphysics3d/cmake build/CMakeFiles/CMakeFiles/ALL_BUILD.dir
+F:/Year 3/Games Programming/lab5/include/reactphysics3d/cmake build/CMakeFiles/CMakeFiles/ZERO_CHECK.dir

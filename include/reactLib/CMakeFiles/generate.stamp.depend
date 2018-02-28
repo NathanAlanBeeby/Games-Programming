@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+F:/Year 3/Games Programming/lab5/include/reactphysics3d/CMakeLists.txt
+F:/Year 3/Games Programming/lab5/include/reactLib/CMakeFiles/3.11.0-rc1/CMakeSystem.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/CMakeSystemSpecificInitialize.cmake
+F:/Year 3/Games Programming/lab5/include/reactLib/CMakeFiles/3.11.0-rc1/CMakeCXXCompiler.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/CMakeSystemSpecificInformation.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/CMakeGenericSystem.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/CMakeInitializeConfigs.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/Platform/Windows.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/Platform/WindowsPaths.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/CMakeCXXInformation.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/CMakeLanguageInformation.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/Compiler/MSVC-CXX.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/Platform/Windows-MSVC-CXX.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/Platform/Windows-MSVC.cmake
+F:/Year 3/Games Programming/lab5/include/reactLib/CMakeFiles/3.11.0-rc1/CMakeRCCompiler.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/CMakeRCInformation.cmake
+F:/Year 3/Games Programming/lab5/include/cmake-3.11.0-rc1-win32-x86/share/cmake-3.11/Modules/CMakeCommonLanguageInclude.cmake
